@@ -1,5 +1,5 @@
 # Retro AIM Server
-
+Credits mk6i
 <div align="center">
 
 <a href="">[![codecov](https://codecov.io/gh/mk6i/retro-aim-server/graph/badge.svg?token=MATKPP77JT)](https://codecov.io/gh/mk6i/retro-aim-server)</a>
